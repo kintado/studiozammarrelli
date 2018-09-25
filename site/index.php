@@ -7,6 +7,6 @@
 
 <body>xxxx
 	<img src="grafica.jpg" height="100%" />
-	zzxxx
+	zzxxxfffff
 </body>
 </html>
